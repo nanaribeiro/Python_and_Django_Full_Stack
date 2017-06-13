@@ -34,7 +34,7 @@ input{
 /*Task # 5
 Give a light yellow background to all <p> elements inside of a <div> element
 Use HEX for the color*/
-p{
+div p{
   background-color: #ffff66;
 }
 
