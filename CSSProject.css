@@ -1,0 +1,28 @@
+h1{
+  font-family: 'Bubbler One', sans-serif;
+  text-align: center;
+}
+td{
+  border: 4px solid white;
+  height: 200px;
+  padding: 70px;
+}
+.tableA{
+  margin: auto;
+}
+
+#one{
+  background-color: #F5E6E8;
+}
+#two{
+  background-color: #D5C6E0;
+}
+#three{
+  background-color: #AAA1C8;
+}
+#four{
+  background-color: #967AA1;
+}
+#five{
+  background-color: #192A51;
+}
